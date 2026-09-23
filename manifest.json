@@ -1,0 +1,32 @@
+{
+  "upstream_repo": "xD3I/PZ_Optimization",
+  "release_tag": "win-b0bbce05d5-5c72380",
+  "master_checked": "not rechecked for this RC; source delta compared to tag",
+  "game_revision": "b0bbce05d5",
+  "lua": {
+    "pzopt_optimizations_options.lua": {
+      "upstream_sha256": "A129A5676C116CD4CA5DEE0A16FD158EE2F86BD051E76CA409232AF1C4B74BAC",
+      "patch_sha256": "444CF466AFF7E09D65F99CEA8F0C32BB8F512A9763BE5DB37BEBC2C76F3FE1E0"
+    },
+    "pzopt_framecap_options.lua": {
+      "upstream_sha256": "09F0A16D6830690FCA5EEFE52398664BD0388A1DA1D3BC00DF7B40FF35404696",
+      "patch_sha256": "1F2212B18DAE6E64A1E3845B2AC25681299E333850C9D82011494306368BD8EB"
+    },
+    "pzopt_mainscreen_overlay.lua": {
+      "upstream_sha256": "59675D9C9FED77B8FC6D82AD5DCBEEF46C44337126D20C2A311560B8DF10BFFC",
+      "patch_sha256": "27AB863F9E001FF0F8B090BA38F1C9A68A6F604E4EEA3C2ECA4BBC7AF8ABBB81"
+    },
+    "pzopt_mainscreen_update.lua": {
+      "upstream_sha256": "723C2F40516F0B2102DA4CD0AFFE375DC24B4CE1F4CA8D183D2EAE02EB4A6D27",
+      "patch_sha256": "61D2ECA1131D015140D0E77BDC6D2231E6636FE0A40775260758D592B1A0302E"
+    }
+  },
+  "translation": {
+    "KO": "8A4264A2CD913B2914EADA773166B6957AF452D2C8749FCC9A155E4F226B1179",
+    "EN": "E53F3F0C8994FCEBA42ABE4201D1755ACB1ACB8B8A75B49CB59866E0D50E4110"
+  },
+  "unmodified_classes_sha256": "468EC00F762470A82522C42508FF1D04E0472D38B9DD4A7447D30EA621FA4325",
+  "mod_info_sha256": "B138D3F2907A34536757F462A5DBB6B53A0FF4EBDBC6BEE7EE75505296D0EFBD",
+  "release_commit": "5c72380",
+  "source_basis": "4bb5acb full selected text source plus 5c72380 ten-file GitHub compare delta; unmodified PZOpt UI Lua verified against old full source"
+}
